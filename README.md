@@ -54,4 +54,6 @@ Power BI Expertise Demonstrated
 Connected and transformed raw data from multiple sources
 Created a clean data model with proper relationships and measures
 Built interactive dashboards with slicers, drill-throughs, and KPIs
-Defined custom DAX measures to calculate churn rate, segmentation, and averages
+Defined custom DAX measures to calculate churn rate, segmentation, and averages.
+
+file:///C:/Users/MIBOO/OneDrive/Desktop/dashboard%20(2).png
