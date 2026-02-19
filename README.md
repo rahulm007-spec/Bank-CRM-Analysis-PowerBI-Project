@@ -56,4 +56,5 @@ Created a clean data model with proper relationships and measures
 Built interactive dashboards with slicers, drill-throughs, and KPIs
 Defined custom DAX measures to calculate churn rate, segmentation, and averages.
 
-file:///C:/Users/MIBOO/OneDrive/Desktop/dashboard%20(2).png
+<img width="3196" height="1805" alt="dashboard (2)" src="https://github.com/user-attachments/assets/b594ab7b-e529-43c9-8194-c6223dc3cade" />
+
